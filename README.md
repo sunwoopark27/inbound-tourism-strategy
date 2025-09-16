@@ -29,7 +29,6 @@
 >
 > 하루 브리핑: <br>
 > https://boatneck-cormorant-f6f.notion.site/2158a77d96d980f09ab1c7d5ae6fdbc2?source=copy_link <br>
----
 
 ## 💡 문제 정의
 > - ${\textsf{\color{black}코로나19 이후 장거리 관광객의 유입이 증가하고 있으나, 이들을 위한 체계적인 맞춤 전략은 부족한 실정입니다.}}$
